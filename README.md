@@ -1,5 +1,5 @@
 # Symbol-Encount-MV
-<p>RPGツクールMVでシンボルエンカウントを実装するためのプラグインです。<br>本プラグインは、<a target="_blank" href="http://kaisou-ryouiki.sakura.ne.jp/">ろかん</a>様の「シンボルエンカウント補助」と類似した動作をツクールMVで再現しました。</p>
+<p>RPGツクールMVでシンボルエンカウントを実装するためのプラグインです。</p>
 
 <h3>設定方法</h3>
 <ol>
