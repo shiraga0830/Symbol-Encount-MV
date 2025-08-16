@@ -1,6 +1,6 @@
 /*:
  * @target MV
- * @plugindesc シンボルエンカウント
+ * @plugindesc MV用シンボルエンカウント
  * @author ネメシス
  *
  * @help
@@ -75,4 +75,5 @@
 		_Game_Event_update.call(this);
 		if (this._symbolEnemy && this._erased === false) this.updateSymbolEnemy();
 	};
+
 })();
