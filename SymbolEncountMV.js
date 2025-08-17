@@ -1,7 +1,7 @@
 /*:
  * @target MV
  * @plugindesc MV用シンボルエンカウント
- * @author 白神リリア/ネメシス（https://shiraga.stars.ne.jp/）
+ * @author 白神リリア/ネメシス
  *
  * @help
  * イベントのメモ欄に <SymbolEnemy> と書くと有効になります。
@@ -77,4 +77,5 @@
 	};
 
 })();
+
 
